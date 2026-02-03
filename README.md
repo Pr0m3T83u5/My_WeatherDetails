@@ -4,9 +4,9 @@
 
 
 <!-- Heading -->
-# ☁️ Weather Deatils
+# ☁️ Weather Details
 
-Welcome to my second Website. This Website is bootstraped and is used to practice API calls and connections using AXIOS
+Welcome to my second Website. This Website is bootstrapped and is used to practice API calls and connections using AXIOS
 ### Built With
 *  [Jquery](https://jquery.com/)
 *  [ExpressJS](https://expressjs.com/)
@@ -31,7 +31,7 @@ Welcome to my second Website. This Website is bootstraped and is used to practic
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Pr0m3T83u5/My_Blogger1_Website
+   git clone https://github.com/Pr0m3T83u5/My_WeatherDetails
    ```
 <!--
 4. Change git remote url to avoid accidental pushes to base project
